@@ -8,7 +8,8 @@ Almost everything i like makes me curious.
 
 
 ### FinanceBot:
-  - A Financial Bot, that works with Pyrofex, Yfinance and with Unittest for a punctual case. Repo https://github.com/LucianoArgolo22/FinanceBot/blob/main/README.md
+  - A Financial Bot, that works with Pyrofex, Yfinance and with Unittest for a punctual case.
+  -  Repo https://github.com/LucianoArgolo22/FinanceBot/blob/main/README.md
 
 ### Customized Library Pandas-Like:A library built on native Python. that tries to replicate some behaviours.
   - Repo https://github.com/LucianoArgolo22/Customized-library-Pandas-Like-
