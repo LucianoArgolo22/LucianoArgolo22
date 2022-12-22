@@ -14,7 +14,7 @@ Almost everything i like makes me curious.
 ### Customized Library Pandas-Like:A library built on native Python. that tries to replicate some behaviours.
   - Repo https://github.com/LucianoArgolo22/Customized-library-Pandas-Like-
 
-### A backuper and Comparative lib for Python, Spark, Hive and Hadoop.
+### A backuper and Comparative lib with Python, Bash, Spark, Hive and Hadoop.
   - This library works with Python, Spark, Hive and Hadoop has a program that backups all the info of any table and any databases, inferring it's schema, and then replicates it creating a new table/tables with a new name. So info can be automatically backuped, and process can be parallelized. In the case of being parallelized, they can be compared with a comparing feature inside the lib (everything can be found inside the repo)
 Repo https://github.com/LucianoArgolo22/Spark-Python-POO-y-SparkSQL
 
