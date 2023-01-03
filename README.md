@@ -6,6 +6,17 @@ Almost everything i like makes me curious.
 
 # Some of my Main Projects :
 
+### End to End develop. Rest API connected to database (MySql) that loads batch of rows into database, and generates Dashboards Metrics with Grafana:
+  - Techonlogies used:
+    - Laguage: Python
+    - Framework: Flask
+    - Database: MySQL
+    - Metrics and Dashboard:
+    - Containerization and internal network connections: Docker-image and Docker-compose
+  - A Rest API connected to database (MySql) that loads batch of rows into database, and generates Dashboards Metrics with Grafana. It also has endpoints that return specific metrics for further analysis. Not only Dashboards on Grafana.
+  -  Repo https://github.com/LucianoArgolo22/FinanceBot/blob/main/README.md
+
+REST API - Python - Flask - MySQL - Grafana - Docker(Docker-image/Docker-compose)
 
 ### FinanceBot:
   - A Financial Bot, that works with Pyrofex, Yfinance and with Unittest for a punctual case.
