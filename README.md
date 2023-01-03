@@ -6,7 +6,7 @@ Almost everything i like makes me curious.
 
 # Some of my Main Projects :
 
-### End to End develop. Rest API connected to database (MySql) that loads batch of rows into database, and generates Dashboards Metrics with Grafana:
+### End to End develop. Rest API connected to database (MySql) that loads batch of rows into database, generates Metrics, and with Grafana Dashboards for Metrics and data visualization:
   - Tools Used:
     - Laguage: Python
     - Framework: Flask
