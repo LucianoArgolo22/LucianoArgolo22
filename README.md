@@ -10,6 +10,7 @@ Almost everything i like makes me curious.
   - Techonlogies used:
     - Laguage: Python
     - Framework: Flask
+    - Dependencies managing: Poetry
     - Database: MySQL
     - Metrics and Dashboard:
     - Containerization and internal network connections: Docker-image and Docker-compose
