@@ -15,9 +15,8 @@ Almost everything i like makes me curious.
     - Metrics and Dashboard: Grafana
     - Containerization and internal network connections: Docker-image and Docker-compose
   - A Rest API connected to database (MySql) that loads batch of rows into database, and generates Dashboards Metrics with Grafana. It also has endpoints that return specific metrics for further analysis. Not only Dashboards on Grafana.
-  -  Repo [https://github.com/LucianoArgolo22/FinanceBot/blob/main/README.md](https://github.com/LucianoArgolo22/RestApi_Flask_Mysql_Grafana_Docker)
+  -  Repo: https://github.com/LucianoArgolo22/RestApi_Flask_Mysql_Grafana_Docker
 
-REST API - Python - Flask - MySQL - Grafana - Docker(Docker-image/Docker-compose)
 
 ### FinanceBot:
   - A Financial Bot, that works with Pyrofex, Yfinance and with Unittest for a punctual case.
