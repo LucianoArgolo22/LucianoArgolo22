@@ -17,6 +17,7 @@ Almost everything i like makes me curious.
     - Libs: Pandas, matplotlib, seaborn and scipy
     - Dependencies managing: Poetry
     - Metrics and Dashboard: Power Bi
+  - Repo: https://github.com/LucianoArgolo22/DataAnalysis_and_PowerBi_DashBoard
 
 
 # Some of my Main Projects :
