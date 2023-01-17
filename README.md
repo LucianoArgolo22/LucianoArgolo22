@@ -5,7 +5,7 @@ Almost everything i like makes me curious.
 - In the repository "LucianoArgolo22" You can find my cv, both, in English and Spanish.
 
 
-# Exploratory Data analysis (EDA): For understanding the data, i performed some EDA.
+# Data Analasys and Dashboards. 
 
 ### The Proyect was generated with the intention of showing some statistics about properties in Capital Federal, Buenos Aires, Argentina. The data was gathered by a scrapper that i developed (that helped me to move to an apartment below the average price for that time)
 
