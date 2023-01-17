@@ -4,6 +4,21 @@ Almost everything i like makes me curious.
 - I am actually studying Biomedical Engineering at 4(fourth) year.
 - In the repository "LucianoArgolo22" You can find my cv, both, in English and Spanish.
 
+
+# Exploratory Data analysis (EDA): For understanding the data, i performed some EDA.
+
+### The Proyect was generated with the intention of showing some statistics about properties in Capital Federal, Buenos Aires, Argentina. The data was gathered by a scrapper that i developed (that helped me to move to an apartment below the average price for that time)
+
+  - Data Wrangling: For organizing the differentes segments in each column, for further analysis i have to do some wrangling
+  - Data Cleansing: For cleaning and excluding outliers (not needed in this case) i used some techniques as IQR(inter quartile range), so i could work on a more realiable data, also doing some distributions, for further understanding of the data i was dealing with at each moment of the process.
+  - DashBoards: Creating an interactive Power Bi dashboard with the data generated as a final product.
+  - Tools Used:
+    - Laguage: Python
+    - Libs: Pandas, matplotlib, seaborn and scipy
+    - Dependencies managing: Poetry
+    - Metrics and Dashboard: Power Bi
+
+
 # Some of my Main Projects :
 
 ### End to End develop. Rest API connected to database (MySql) that loads batch of rows into database, generates Metrics, and with Grafana Dashboards for Metrics and data visualization:
