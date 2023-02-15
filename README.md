@@ -8,7 +8,18 @@ Almost everything i like makes me curious.
 
 
 
-# Some of my Main Projects :
+# Some of my Main Projects or Challenges Solved for practice :
+
+### End to End pipeline with SPARK, Data ingestion, processing, cleaning and saving to local db or S3. 
+  - This Challenge was solved for showing my skills and practising it has AWS KEYS for practise if anyone wants to.
+  - Data Wrangling: For organizing the differentes segments in each column, for further analysis i have to do some wrangling
+  - Tools Used:
+    - Laguage: Python
+    - Tools: Python, PostgreSQL, Pandas, PySpark, SparkSQL, AWS-S3 (Boto3), Docker-image, Docker-compose
+    - Pattern Design used: SOLID and DRY.
+    - Dependencies managing: Poetry
+    - Infrastructure: Docker
+  - Repo: [https://github.com/LucianoArgolo22/DataAnalysis_and_PowerBi_DashBoard](https://github.com/LucianoArgolo22/Challenge_Solving)
 
 
 ### Data Analasys and Dashboards. 
@@ -22,7 +33,6 @@ Almost everything i like makes me curious.
     - Dependencies managing: Poetry
     - Metrics and Dashboard: Power Bi
   - Repo: https://github.com/LucianoArgolo22/DataAnalysis_and_PowerBi_DashBoard
-
 
 
 
