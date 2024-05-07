@@ -1,6 +1,6 @@
 Español:
 
-Buenas, soy Luciano, actualmente estoy estudiando Ingeniería Biomédica en cuarto año. Soy una persona muy curiosa, leo casi cada libro que cae en mis manos (no estoy tan seguro de si esto es bueno, pero es lo que hay), me gusta mucho la Física (acá hay algunos de mis videos como profesor de física [youtubeChannel](https://www.youtube.com/watch?v=fSZRPwaPknU&t=172s) ), las matemáticas, las Finanzas y el Análisis de datos.
+Buenas, soy Luciano, actualmente estoy estudiando Ingeniería Biomédica en cuarto año. Soy una persona muy curiosa, leo casi cada libro que cae en mis manos (no estoy tan seguro de si esto es bueno, pero es lo que hay), me gusta mucho la Física (acá hay algunos de mis videos dando algunos temas de física [youtubeChannel](https://www.youtube.com/watch?v=fSZRPwaPknU&t=172s) ), las matemáticas, las Finanzas y el Análisis de datos.
 
 # Algunos proyectos en los que estoy trabajando:
 ## Análisis de Datos en Bienes Raíces:
@@ -14,7 +14,7 @@ Buenas, soy Luciano, actualmente estoy estudiando Ingeniería Biomédica en cuar
 English:
 
 
-Hi there, I’m Luciano, i am actually studying Biomedical Engineering at 4(fourth) year. A very curious person, i read almost each book that falls into my hands (not so sure if this is quite good, but it is what it is), I really like about Physics (you can find here some of my videos as physics teacher [youtubeChannel](https://www.youtube.com/watch?v=fSZRPwaPknU&t=172s), maths, Finance, and Analysing data.
+Hi there, I’m Luciano, i am actually studying Biomedical Engineering at 4(fourth) year. A very curious person, i read almost each book that falls into my hands (not so sure if this is quite good, but it is what it is), I really like about Physics (you can find here some of my videos related to physics [youtubeChannel](https://www.youtube.com/watch?v=fSZRPwaPknU&t=172s), maths, Finance, and Analysing data.
 
 # Some proyects i am working on:
  ## Data Analysis on Real State:
