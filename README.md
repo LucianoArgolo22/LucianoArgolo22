@@ -1,8 +1,14 @@
-Hi, I’m Luciano Argolo
-I’m interested in Programming, Maths, physics, finance, crypto, data engineering and data analysis,
-Almost everything i like makes me curious.
-- I am actually studying Biomedical Engineering at 4(fourth) year.
-- In the repository "LucianoArgolo22" You can find my cv, both, in English and Spanish.
+
+
+
+Hi there, I’m Luciano, i am actually studying Biomedical Engineering at 4(fourth) year. A very curious person, i read almost each book that falls into my hands (not so sure if this is quite good, but it is what it is), I really like about Physics (you can find here some of my videos as physics teacher [youtubeChannel](https://www.youtube.com/watch?v=fSZRPwaPknU&t=172s), maths, Finance, and Analysing data.
+
+# Some proyects i am working on:
+ ## Data Analysis on Real State:
+   ### - Daily Statistics: [TwitterBot](https://twitter.com/CuriosityKing22)
+   ### - Interactive Dashboard: [PowerBi](https://app.powerbi.com/view?r=eyJrIjoiZDI1ZGE2NjktMjIyZi00NDk0LTk2NjgtZjA2M2FlMWRiNDFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+   ### - Groups for helping people find rentals: [Telegram Groups](https://t.me/Asistente_propiedades_bot)
+   ### - Cafecito if you want to contribute to my work: [Contribution](https://cafecito.app/my_account/profile)  
 
 
 
