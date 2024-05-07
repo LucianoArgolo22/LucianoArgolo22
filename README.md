@@ -1,4 +1,16 @@
+Español:
+ Buenas, soy Luciano, actualmente estoy estudiando Ingeniería Biomédica en cuarto año. Soy una persona muy curiosa, leo casi cada libro que cae en mis manos (no estoy tan seguro de si esto es bueno, pero es lo que hay), me gusta mucho la Física (acá hay algunos de mis videos como profesor de física [youtubeChannel](https://www.youtube.com/watch?v=fSZRPwaPknU&t=172s) ), las matemáticas, las Finanzas y el Análisis de datos.
 
+Algunos proyectos en los que estoy trabajando:
+Análisis de Datos en Bienes Raíces:
+- Estadísticas Diarias: [TwitterBot](https://twitter.com/CuriosityKing22)
+- Panel Interactivo: [PowerBi](https://app.powerbi.com/view?r=eyJrIjoiZDI1ZGE2NjktMjIyZi00NDk0LTk2NjgtZjA2M2FlMWRiNDFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- Grupos para ayudar a las personas a encontrar alquileres: [Telegram Groups](https://t.me/Asistente_propiedades_bot)
+- Si buscás alquiler o propiedades en venta también ofrezo un servicio personalizado por un costo mínimo: [conactame](https://t.me/Asistente_propiedades_bot)
+- Cafecito si quieres contribuir a mi trabajo: [Contribution](https://cafecito.app/my_account/profile) 
+
+
+English:
 
 
 Hi there, I’m Luciano, i am actually studying Biomedical Engineering at 4(fourth) year. A very curious person, i read almost each book that falls into my hands (not so sure if this is quite good, but it is what it is), I really like about Physics (you can find here some of my videos as physics teacher [youtubeChannel](https://www.youtube.com/watch?v=fSZRPwaPknU&t=172s), maths, Finance, and Analysing data.
