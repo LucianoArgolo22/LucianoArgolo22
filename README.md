@@ -1,5 +1,6 @@
 Español:
- Buenas, soy Luciano, actualmente estoy estudiando Ingeniería Biomédica en cuarto año. Soy una persona muy curiosa, leo casi cada libro que cae en mis manos (no estoy tan seguro de si esto es bueno, pero es lo que hay), me gusta mucho la Física (acá hay algunos de mis videos como profesor de física [youtubeChannel](https://www.youtube.com/watch?v=fSZRPwaPknU&t=172s) ), las matemáticas, las Finanzas y el Análisis de datos.
+
+Buenas, soy Luciano, actualmente estoy estudiando Ingeniería Biomédica en cuarto año. Soy una persona muy curiosa, leo casi cada libro que cae en mis manos (no estoy tan seguro de si esto es bueno, pero es lo que hay), me gusta mucho la Física (acá hay algunos de mis videos como profesor de física [youtubeChannel](https://www.youtube.com/watch?v=fSZRPwaPknU&t=172s) ), las matemáticas, las Finanzas y el Análisis de datos.
 
 # Algunos proyectos en los que estoy trabajando:
 ## Análisis de Datos en Bienes Raíces:
