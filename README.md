@@ -8,7 +8,7 @@ Buenas, soy Luciano, actualmente estoy estudiando Ingeniería Biomédica en cuar
   - Panel Interactivo: [PowerBi](https://app.powerbi.com/view?r=eyJrIjoiZDI1ZGE2NjktMjIyZi00NDk0LTk2NjgtZjA2M2FlMWRiNDFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
   - Grupos para ayudar a las personas a encontrar alquileres: [Telegram Groups](https://t.me/Asistente_propiedades_bot)
   - Si buscás alquiler o propiedades en venta también ofrezo un servicio personalizado por un costo mínimo: [conactame](https://t.me/Asistente_propiedades_bot)
-  - Cafecito si quieres contribuir a mi trabajo: [Contribution](https://cafecito.app/my_account/profile) 
+  - Cafecito si quieres contribuir a mi trabajo: [Contribution](https://cafecito.app/realstatedata) 
 
 
 English:
@@ -21,7 +21,7 @@ Hi there, I’m Luciano, i am actually studying Biomedical Engineering at 4(four
    - Daily Statistics: [TwitterBot](https://twitter.com/CuriosityKing22)
    - Interactive Dashboard: [PowerBi](https://app.powerbi.com/view?r=eyJrIjoiZDI1ZGE2NjktMjIyZi00NDk0LTk2NjgtZjA2M2FlMWRiNDFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
    - Groups for helping people find rentals: [Telegram Groups](https://t.me/Asistente_propiedades_bot)
-   - Cafecito if you want to contribute to my work: [Contribution](https://cafecito.app/my_account/profile)  
+   - Cafecito if you want to contribute to my work: [Contribution](https://cafecito.app/realstatedata)  
 
 
 
